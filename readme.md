@@ -138,7 +138,7 @@ Epoch: [10/10] Step: [700/700] Loss-D: 1.1115 Loss-G: 2.2473 D(x): 0.7334 D(G(z)
 ![在这里插入图片描述](result.jpg)
 
 # 5. Traing
-[https://github.com/Fangzhenxuan/pytorch-dcgan-mnist/blob/master/dcgan.ipynb](dcgan.ipynb)
+[dcgan.ipynb](https://github.com/Fangzhenxuan/pytorch-dcgan-mnist/blob/master/dcgan.ipynb)
 
 # 6. Paper
 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS: [Download](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
