@@ -133,18 +133,16 @@ Epoch: [10/10] Step: [700/700] Loss-D: 1.1115 Loss-G: 2.2473 D(x): 0.7334 D(G(z)
 ## 3.6. Visualization of G’s progression
 
 ![在这里插入图片描述](train.gif)
-# 4. Real Images vs. Fake Images
 
-![在这里插入图片描述](result.jpg)
 
-# 5. Traing
+# 4. Traing
 [dcgan.ipynb](https://github.com/Fangzhenxuan/pytorch-dcgan-mnist/blob/master/dcgan.ipynb)
 
-# 6. Paper
+# 5. Paper
 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS: [Download](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
-# 7. Cite
+# 6. Cite
 > [https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
-# 8.Tips
+# 7.Tips
 For Chinese, you can look my csdn blog: [https://blog.csdn.net/qq_42951560/article/details/112199229](https://blog.csdn.net/qq_42951560/article/details/112199229)
